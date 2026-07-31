@@ -9,7 +9,7 @@ export default defineConfig({
 
   github: {
     owner: "MedPocket",
-    repo: "ultraso",
+    repo: "problem-based-obstetric-ultrasound",
     branch: "main",
   },
 
@@ -37,6 +37,6 @@ export default defineConfig({
       process.env.NETLIFY === "true"
         ? process.env.URL || "https://ultraso.netlify.app"
         : "https://medpocket.github.io",
-    base: process.env.NETLIFY === "true" ? "/" : "/ultraso",
+    base: process.env.NETLIFY === "true" ? "/" : "/problem-based-obstetric-ultrasound",
   },
 });
