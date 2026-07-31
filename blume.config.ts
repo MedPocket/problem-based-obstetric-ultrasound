@@ -1,9 +1,9 @@
 import { defineConfig } from "blume";
 
 export default defineConfig({
-  title: "Siêu âm Sản Phụ khoa dựa trên Vấn đề",
+  title: "Siêu âm Sản Phụ khoa dựa trên vấn đề",
   description:
-    "Tài liệu y khoa về Siêu âm Sản Phụ khoa dựa trên Vấn đề (Problem-based Obstetric Ultrasound) - DR.THANH OBGY.",
+    "Tài liệu y khoa về Siêu âm Sản Phụ khoa dựa trên vấn đề (Problem-based Obstetric Ultrasound)",
 
   feedback: false,
 
