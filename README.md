@@ -9,13 +9,13 @@ Trang web này được xây dựng sử dụng framework tài liệu [**Blume**
 Để bắt đầu chạy thử và phát triển giao diện cục bộ, hãy đảm bảo bạn đã cài đặt [Node.js](https://nodejs.org) và [Bun](https://bun.com). Sau đó thực hiện các bước sau:
 
 ```bash
-git clone https://github.com/MedPocket/ultraso
-cd ultraso
+git clone https://github.com/MedPocket/problem-based-obstetric-ultrasound
+cd problem-based-obstetric-ultrasound
 bun install
 bun run dev
 ```
 
-Mở trình duyệt và truy cập: http://localhost:4321/ultraso.
+Mở trình duyệt và truy cập: http://localhost:4321/problem-based-obstetric-ultrasound.
 
 ## Bản quyền và Giấy phép
 
