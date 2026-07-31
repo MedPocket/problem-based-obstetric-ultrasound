@@ -10,6 +10,6 @@ export default defineMeta({
     "bai-20-nang-than",
     "bai-21-than-u-dich",
     "bai-22-than-tang-am",
-    "bai-23-bang-quang-lon"
+    "bai-23-bang-quang-lon",
   ],
 });

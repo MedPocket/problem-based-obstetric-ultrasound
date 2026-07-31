@@ -9,6 +9,6 @@ export default defineMeta({
     "bai-01-gian-nao-that",
     "bai-02-nang-trong-nao",
     "bai-03-bat-san-the-chai",
-    "bai-04-bat-thuong-hinh-dang-so"
+    "bai-04-bat-thuong-hinh-dang-so",
   ],
 });

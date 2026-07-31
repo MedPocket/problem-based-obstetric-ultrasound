@@ -10,6 +10,6 @@ export default defineMeta({
     "bai-25-cac-bat-thuong-khop",
     "bai-26-cac-bat-thuong-ban-tay",
     "bai-27-cac-bat-thuong-cot-song",
-    "bai-28-khoi-cot-song"
+    "bai-28-khoi-cot-song",
   ],
 });

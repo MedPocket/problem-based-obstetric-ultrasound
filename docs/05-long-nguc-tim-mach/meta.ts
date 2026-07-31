@@ -12,6 +12,6 @@ export default defineMeta({
     "bai-12-dong-mach-duoi-don-phai-lac-cho",
     "bai-13-tim-lech-phai",
     "bai-14-bat-thuong-mat-cat-4-buong-tim",
-    "bai-15-bat-thuong-nhip-tim-thai"
+    "bai-15-bat-thuong-nhip-tim-thai",
   ],
 });

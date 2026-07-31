@@ -11,6 +11,6 @@ export default defineMeta({
     "bai-33-vo-oi-thieu-oi",
     "bai-34-da-oi",
     "bai-35-dai-soi-oi",
-    "bai-36-banh-nhau-xam-lan-bat-thuong"
+    "bai-36-banh-nhau-xam-lan-bat-thuong",
   ],
 });

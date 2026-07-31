@@ -5,8 +5,5 @@ export default defineMeta({
   icon: "user",
   order: 9,
   collapsed: true,
-  pages: [
-    "bai-29-khoi-vung-dau-va-co",
-    "bai-30-tang-khoang-sang-sau-gay"
-  ],
+  pages: ["bai-29-khoi-vung-dau-va-co", "bai-30-tang-khoang-sang-sau-gay"],
 });
