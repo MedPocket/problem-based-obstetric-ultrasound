@@ -1,0 +1,25 @@
+{
+  "name": "@medpocket/ultraso",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Document for clinical ultrasound",
+  "type": "module",
+  "scripts": {
+    "dev": "blume dev",
+    "build": "blume build",
+    "preview": "blume preview",
+    "lint": "oxlint",
+    "fmt": "oxfmt",
+    "typecheck": "blume check",
+    "postinstall": "node scripts/patch-blume.js"
+  },
+  "dependencies": {
+    "@fontsource/be-vietnam-pro": "^5.3.0",
+    "blume": "^1.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "oxfmt": "^0.60.0",
+    "oxlint": "^1.75.0"
+  }
+}
