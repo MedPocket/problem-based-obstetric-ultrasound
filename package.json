@@ -2,7 +2,7 @@
   "name": "@medpocket/ultraso",
   "version": "0.1.0",
   "private": true,
-  "description": "Document for clinical ultrasound",
+  "description": "Siêu âm sản phụ khoa dựa trên vấn đề (Problem-based obstetric ultrasound) - DR.THANH OBGY",
   "type": "module",
   "scripts": {
     "dev": "blume dev",

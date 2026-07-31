@@ -1,0 +1,16 @@
+$ blume dev
+17:11:11 [vite] connected.
+17:11:13 [vite] connected.
+17:11:15 [types] Generated 1ms
+17:11:15 [vite] connected.
+17:11:15 [content] Syncing content
+17:11:16 [content] Synced content
+17:11:16 [vite] Re-optimizing dependencies because vite config has changed
+ astro  v7.1.3 ready in 5981 ms
+┃ Local    http://localhost:4321/ultraso
+┃ Network  use --host to expose
+17:11:16 watching for file changes...
+17:12:19 [200] / 722ms
+17:12:21 [200] / 26ms
+17:12:56 [200] /he-than-kinh-dau-so/bai-01-gian-nao-that 80ms
+error: script "dev" exited with code 143
