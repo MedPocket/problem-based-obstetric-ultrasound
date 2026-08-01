@@ -19,4 +19,6 @@ Mở trình duyệt và truy cập: http://localhost:4321/problem-based-obstetri
 
 ## Bản quyền và Giấy phép
 
-Dự án này được cấp phép theo mã nguồn mở [MIT License](LICENSE).
+Bản quyền thuộc &copy; MedPocket.
+
+_Chúng tôi không sở hữu một số nội dung. Dự án được chia sẻ với mục đích giáo dục. Nếu có thắc mắc về bản quyền hoặc muốn gỡ bỏ nội dung, hãy liên lạc với chúng tôi ngay._
