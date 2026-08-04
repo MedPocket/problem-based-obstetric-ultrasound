@@ -29,10 +29,6 @@ export default defineConfig({
     accent: "blue",
     radius: "md",
     mode: "system",
-    fonts: {
-      body: { name: "Be Vietnam Pro" },
-      display: { name: "Be Vietnam Pro" },
-    },
   },
 
   deployment: {

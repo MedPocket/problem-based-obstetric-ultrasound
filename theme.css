@@ -1,0 +1,27 @@
+@import "@fontsource/be-vietnam-pro/100.css";
+@import "@fontsource/be-vietnam-pro/200.css";
+@import "@fontsource/be-vietnam-pro/300.css";
+@import "@fontsource/be-vietnam-pro/400.css";
+@import "@fontsource/be-vietnam-pro/500.css";
+@import "@fontsource/be-vietnam-pro/600.css";
+@import "@fontsource/be-vietnam-pro/700.css";
+@import "@fontsource/be-vietnam-pro/800.css";
+@import "@fontsource/be-vietnam-pro/900.css";
+@import "@fontsource/be-vietnam-pro/100-italic.css";
+@import "@fontsource/be-vietnam-pro/200-italic.css";
+@import "@fontsource/be-vietnam-pro/300-italic.css";
+@import "@fontsource/be-vietnam-pro/400-italic.css";
+@import "@fontsource/be-vietnam-pro/500-italic.css";
+@import "@fontsource/be-vietnam-pro/600-italic.css";
+@import "@fontsource/be-vietnam-pro/700-italic.css";
+@import "@fontsource/be-vietnam-pro/800-italic.css";
+@import "@fontsource/be-vietnam-pro/900-italic.css";
+
+:root {
+  --blume-font-body:
+    "Be Vietnam Pro", "Be Vietnamese Pro", ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --blume-font-display:
+    "Be Vietnam Pro", "Be Vietnamese Pro", ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
