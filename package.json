@@ -14,8 +14,7 @@
     "postinstall": "node scripts/patch-blume.js"
   },
   "dependencies": {
-    "@fontsource/be-vietnam-pro": "^5.3.0",
-    "blume": "^1.2.1"
+    "blume": "^1.3.1"
   },
   "devDependencies": {
     "@types/node": "^26.1.2",
