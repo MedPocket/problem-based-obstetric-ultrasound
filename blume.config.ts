@@ -29,14 +29,20 @@ export default defineConfig({
     accent: "blue",
     radius: "md",
     mode: "system",
+    fonts: {
+      body: {
+        name: "Be Vietnam Pro",
+        provider: "google",
+      },
+      display: {
+        name: "Be Vietnam Pro",
+        provider: "google",
+      },
+    },
   },
 
   deployment: {
     output: "static",
-    site:
-      process.env.NETLIFY === "true"
-        ? process.env.URL || "https://ultraso.netlify.app"
-        : "https://medpocket.github.io",
     base: process.env.NETLIFY === "true" ? "/" : "/problem-based-obstetric-ultrasound",
   },
 });
