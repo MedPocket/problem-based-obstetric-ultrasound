@@ -1,6 +1,6 @@
 # Siêu âm Sản Phụ khoa dựa trên vấn đề (Problem-based Obstetric Ultrasound)
 
-Tài liệu cô đọng và mang tính ứng dụng cao về **Siêu âm Sản Phụ khoa dựa trên vấn đề** (bản dịch tiếng Việt từ tài liệu gốc bởi Bác sĩ Nguyễn Trọng Thanh).
+Tài liệu cô đọng và mang tính ứng dụng cao về **Siêu âm Sản Phụ khoa dựa trên vấn đề** (bản dịch tiếng Việt từ tài liệu gốc bởi bác sĩ Nguyễn Trọng Thanh và bác sĩ Long Nhật Nguyễn).
 
 Trang web này được xây dựng sử dụng [**Blume**](https://useblume.dev) (phát triển trên nền Astro và Vite).
 
