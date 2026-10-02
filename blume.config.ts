@@ -27,7 +27,7 @@ export default defineConfig({
   },
 
   theme: {
-    accent: "green",
+    accent: "red",
     radius: "md",
     mode: "light",
     fonts: {
