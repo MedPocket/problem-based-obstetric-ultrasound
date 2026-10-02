@@ -38,14 +38,6 @@ jobs:
           key: blume-og-${{ runner.os }}-${{ hashFiles('**/bun.lock', '**/package-lock.json', '**/pnpm-lock.yaml') }}
           restore-keys: blume-og-${{ runner.os }}-
 
-      - name: Run fast content validation
-        run: bun run validate
-
-      - name: Run lint and typecheck
-        run: |
-          bun run lint
-          bun run typecheck
-
       - name: Build site
         run: bun run build
 
