@@ -30,6 +30,13 @@ jobs:
       - name: Install dependencies
         run: bun install
 
+      - name: Cache Blume OG cards
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6
+        with:
+          path: node_modules/.cache/blume/og
+          key: blume-og-${{ runner.os }}-${{ hashFiles('**/bun.lock', '**/package-lock.json', '**/pnpm-lock.yaml') }}
+          restore-keys: blume-og-${{ runner.os }}-
+
       - name: Build site
         run: bun run build
 
