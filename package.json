@@ -10,8 +10,7 @@
     "preview": "blume preview",
     "lint": "oxlint",
     "fmt": "oxfmt",
-    "typecheck": "blume check",
-    "validate": "bun scripts/validate.ts"
+    "typecheck": "blume check"
   },
   "dependencies": {
     "blume": "^2.0.3"
