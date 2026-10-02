@@ -6,10 +6,10 @@ export default defineMeta({
   order: 7,
   collapsed: true,
   pages: [
-    "bai-19-ho-than-trong",
-    "bai-20-nang-than",
-    "bai-21-than-u-dich",
-    "bai-22-than-tang-am",
-    "bai-23-bang-quang-lon",
+    "19-ho-than-trong",
+    "20-nang-than",
+    "21-than-u-dich",
+    "22-than-tang-am",
+    "23-bang-quang-lon",
   ],
 });

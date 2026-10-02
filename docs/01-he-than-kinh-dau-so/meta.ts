@@ -6,9 +6,9 @@ export default defineMeta({
   order: 3,
   collapsed: true,
   pages: [
-    "bai-01-gian-nao-that",
-    "bai-02-nang-trong-nao",
-    "bai-03-bat-san-the-chai",
-    "bai-04-bat-thuong-hinh-dang-so",
+    "01-gian-nao-that",
+    "02-nang-trong-nao",
+    "03-bat-san-the-chai",
+    "04-bat-thuong-hinh-dang-so",
   ],
 });

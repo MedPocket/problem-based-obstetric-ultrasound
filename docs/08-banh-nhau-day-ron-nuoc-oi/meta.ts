@@ -6,11 +6,11 @@ export default defineMeta({
   order: 10,
   collapsed: true,
   pages: [
-    "bai-31-nhung-bat-thuong-banh-nhau",
-    "bai-32-day-ron-mot-dong-mach",
-    "bai-33-vo-oi-thieu-oi",
-    "bai-34-da-oi",
-    "bai-35-dai-soi-oi",
-    "bai-36-banh-nhau-xam-lan-bat-thuong",
+    "31-nhung-bat-thuong-banh-nhau",
+    "32-day-ron-mot-dong-mach",
+    "33-vo-oi-thieu-oi",
+    "34-da-oi",
+    "35-dai-soi-oi",
+    "36-banh-nhau-xam-lan-bat-thuong",
   ],
 });
