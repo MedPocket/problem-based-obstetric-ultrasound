@@ -13,7 +13,7 @@
     "typecheck": "blume check"
   },
   "dependencies": {
-    "blume": "^2.2.4"
+    "blume": "^2.2.5"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
